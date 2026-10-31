@@ -1,7 +1,7 @@
 {
   "name": "Prossima Fermata",
   "short_name": "Fermata",
-  "description": "Curso de italiano A1–B2 como una red de metro.",
+  "description": "Curso de italiano A1–B2: un viaje en tren por Italia de norte a sur.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -18,13 +18,19 @@
     {
       "src": "icon-512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
       "src": "icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
+    },
+    {
+      "src": "pizza-boh.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
     }
   ]
 }

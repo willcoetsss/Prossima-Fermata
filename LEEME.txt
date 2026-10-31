@@ -1,0 +1,19 @@
+PROSSIMA FERMATA — versión instalable (PWA)
+===========================================
+
+Esta carpeta es la app completa. Para instalarla en el iPhone y en Windows
+necesita estar publicada en una dirección https (gratis, 2 minutos):
+
+1. Entra en https://app.netlify.com/drop
+2. Arrastra la carpeta «prossima-fermata» entera a la página.
+3. Netlify te dará una dirección (https://algo.netlify.app).
+
+iPhone: abre esa dirección en Safari → botón Compartir → «Añadir a pantalla de inicio».
+Windows: ábrela en Edge o Chrome → icono de instalar en la barra de direcciones.
+
+Una vez instalada funciona sin conexión. El progreso se guarda en cada
+dispositivo; para pasarlo de uno a otro usa Ajustes → «Copiar progreso» /
+«Pegar progreso».
+
+Nota: la conversación libre con IA y la sincronización automática entre
+dispositivos solo funcionan en la versión publicada en Claude.
