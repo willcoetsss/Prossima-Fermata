@@ -2756,6 +2756,11 @@ let rzT; window.addEventListener("resize", () => { clearTimeout(rzT); rzT = setT
 applyPrefs();
 render();
 initCapabilities();
-if (window.__PWA__ && "serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("sw.js").catch(() => {});
+if (window.__PWA__ && "serviceWorker" in navigator && location.protocol === "https:") {
+  // Al llegar una versión nueva de la app, recarga sola (salvo en mitad de un ejercicio)
+  const hadCtrl = !!navigator.serviceWorker.controller; let reloaded = false;
+  navigator.serviceWorker.addEventListener("controllerchange", () => { if (hadCtrl && !reloaded && !SES) { reloaded = true; location.reload(); } });
+  navigator.serviceWorker.register("sw.js").then(r => r.update()).catch(() => {});
+}
 </script>
 </body></html>
