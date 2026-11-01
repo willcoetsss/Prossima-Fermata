@@ -1,0 +1,101 @@
+{
+  "cities": {
+    "torino":   {"n":"Torino","es":"Turín","reg":"Piemonte","ll":[7.678,45.062],"lbl":"b","fact":"Fue la primera capital del Reino de Italia (1861). Aquí se inventó el vermut y nació FIAT; la Mole Antonelliana, su símbolo, alberga el Museo Nacional del Cine.","clue":"Fue la primera capital del Reino de Italia y es la cuna del vermut."},
+    "vercelli": {"n":"Vercelli","es":"Vercelli","reg":"Piemonte","ll":[8.423,45.320],"lbl":"b","fact":"Capital europea del arroz. En primavera los arrozales que la rodean se inundan y el paisaje se convierte en un «mar a cuadros» que refleja el cielo.","clue":"Está rodeada de arrozales: es la capital europea del arroz."},
+    "novara":   {"n":"Novara","es":"Novara","reg":"Piemonte","ll":[8.622,45.446],"lbl":"t","fact":"Su cúpula de San Gaudenzio es obra de Antonelli, el mismo arquitecto de la Mole de Turín. En su provincia se produce gran parte del gorgonzola.","clue":"Su cúpula es del mismo arquitecto que la Mole de Turín, y en su provincia se hace mucho gorgonzola."},
+    "milano":   {"n":"Milano","es":"Milán","reg":"Lombardia","ll":[9.204,45.486],"lbl":"b","fact":"Capital económica y de la moda. Su catedral, el Duomo, tardó casi seis siglos en terminarse, y en Santa Maria delle Grazie está La Última Cena de Leonardo.","clue":"Su catedral tardó casi seis siglos en terminarse y guarda La Última Cena de Leonardo."},
+    "bergamo":  {"n":"Bergamo","es":"Bérgamo","reg":"Lombardia","ll":[9.675,45.691],"lbl":"t","fact":"Son dos ciudades en una: la Città Alta, rodeada de murallas venecianas que son Patrimonio de la UNESCO, y la Città Bassa, unidas por un funicular.","clue":"Tiene una ciudad alta amurallada y una ciudad baja unidas por funicular."},
+    "brescia":  {"n":"Brescia","es":"Brescia","reg":"Lombardia","ll":[10.212,45.533],"lbl":"b","fact":"De aquí sale y aquí llega la Mille Miglia, la mítica carrera de coches. Conserva un templo romano y el monasterio lombardo de Santa Giulia, Patrimonio de la UNESCO.","clue":"Es la salida y la meta de la carrera de coches Mille Miglia."},
+    "verona":   {"n":"Verona","es":"Verona","reg":"Veneto","ll":[10.982,45.429],"lbl":"b","fact":"La ciudad de Romeo y Julieta, a orillas del Adige. Cada verano su anfiteatro romano, la Arena, acoge una temporada de ópera al aire libre.","clue":"Es la ciudad de Romeo y Julieta y tiene una Arena romana donde se canta ópera."},
+    "vicenza":  {"n":"Vicenza","es":"Vicenza","reg":"Veneto","ll":[11.541,45.541],"lbl":"t","fact":"La ciudad de Palladio, el arquitecto que inspiró medio mundo. Su Teatro Olimpico es el teatro cubierto más antiguo que se conserva.","clue":"Es la ciudad del arquitecto Palladio y tiene el teatro cubierto más antiguo conservado."},
+    "padova":   {"n":"Padova","es":"Padua","reg":"Veneto","ll":[11.880,45.418],"lbl":"b","fact":"Su universidad, fundada en 1222, es una de las más antiguas del mundo y en ella enseñó Galileo. La Capilla de los Scrovegni guarda los frescos de Giotto.","clue":"En su universidad, de 1222, enseñó Galileo."},
+    "venezia":  {"n":"Venezia","es":"Venecia","reg":"Veneto","ll":[12.321,45.441],"lbl":"r","fact":"Unas 118 islas y más de 400 puentes, sin coches. El tren llega a la estación de Santa Lucia por un puente de casi 4 km sobre la laguna.","clue":"Se llega en tren por un puente sobre la laguna y no tiene coches."},
+    "trieste":  {"n":"Trieste","es":"Trieste","reg":"Friuli-Venezia Giulia","ll":[13.770,45.658],"lbl":"b","fact":"Fue el gran puerto del Imperio austrohúngaro y es la capital italiana del café. Su Piazza Unità d'Italia es la mayor plaza de Europa abierta al mar; aquí sopla la bora.","clue":"Fue el puerto del Imperio austrohúngaro; es la ciudad del café y del viento bora."},
+    "bologna":  {"n":"Bologna","es":"Bolonia","reg":"Emilia-Romagna","ll":[11.343,44.506],"lbl":"b","fact":"«La dotta, la grassa, la rossa»: tiene la universidad más antigua del mundo occidental (1088), la cuna del ragù y los tejados rojos. Sus kilómetros de soportales son Patrimonio de la UNESCO.","clue":"La llaman «la dotta, la grassa, la rossa»; tiene la universidad más antigua de Occidente."},
+    "modena":   {"n":"Modena","es":"Módena","reg":"Emilia-Romagna","ll":[10.926,44.647],"lbl":"t","fact":"Patria del vinagre balsámico tradicional y de Luciano Pavarotti. En su provincia, en Maranello, se fabrican los Ferrari.","clue":"Patria del vinagre balsámico y de Pavarotti; los Ferrari se fabrican en su provincia."},
+    "reggio_e": {"n":"Reggio Emilia","es":"Reggio Emilia","reg":"Emilia-Romagna","ll":[10.631,44.698],"lbl":"b","fact":"Aquí nació en 1797 la bandera tricolor italiana. Y da nombre, junto con Parma, al Parmigiano Reggiano.","clue":"Aquí nació en 1797 la bandera tricolor italiana."},
+    "parma":    {"n":"Parma","es":"Parma","reg":"Emilia-Romagna","ll":[10.328,44.809],"lbl":"t","fact":"La ciudad del prosciutto di Parma y del Parmigiano. Giuseppe Verdi nació en su provincia y su Teatro Regio es un templo de la ópera.","clue":"Famosa por su jamón y por Verdi, que nació en su provincia."},
+    "pisa":     {"n":"Pisa","es":"Pisa","reg":"Toscana","ll":[10.399,43.708],"lbl":"l","fact":"Fue una poderosa república marinera. En la Piazza dei Miracoli está la torre inclinada, y aquí nació Galileo Galilei.","clue":"Fue república marinera y aquí nació Galileo."},
+    "firenze":  {"n":"Firenze","es":"Florencia","reg":"Toscana","ll":[11.248,43.776],"lbl":"t","fact":"Cuna del Renacimiento y capital de Italia de 1865 a 1871. El italiano moderno nace del florentino de Dante, Petrarca y Boccaccio.","clue":"Cuna del Renacimiento: el italiano moderno nace de su dialecto."},
+    "arezzo":   {"n":"Arezzo","es":"Arezzo","reg":"Toscana","ll":[11.873,43.463],"lbl":"r","fact":"Aquí nació Petrarca, y en la iglesia de San Francesco están los frescos de Piero della Francesca. Dos veces al año celebra la Giostra del Saracino.","clue":"Ciudad natal de Petrarca y de la Giostra del Saracino."},
+    "perugia":  {"n":"Perugia","es":"Perugia","reg":"Umbria","ll":[12.388,43.110],"lbl":"r","fact":"Capital de Umbria, «el corazón verde de Italia». Tiene la Universidad para Extranjeros, donde miles de personas estudian italiano cada año, y aquí nacieron los bombones Baci.","clue":"Tiene una Universidad para Extranjeros donde miles de personas estudian italiano."},
+    "roma":     {"n":"Roma","es":"Roma","reg":"Lazio","ll":[12.502,41.901],"lbl":"l","fact":"Capital de Italia desde 1871, a orillas del Tíber. Dentro de la ciudad hay otro país, el Vaticano, y su estación de Termini es la más grande de Italia.","clue":"Dentro de la ciudad hay otro país, y su estación es la más grande de Italia."},
+    "caserta":  {"n":"Caserta","es":"Caserta","reg":"Campania","ll":[14.331,41.075],"lbl":"r","fact":"Su Reggia, el palacio de los Borbones, es una de las residencias reales más grandes del mundo y Patrimonio de la UNESCO. Es tierra de mozzarella di bufala.","clue":"Tiene un palacio real borbónico enorme, Patrimonio de la UNESCO."},
+    "napoli":   {"n":"Napoli","es":"Nápoles","reg":"Campania","ll":[14.268,40.853],"lbl":"l","fact":"La patria de la pizza, frente al Vesubio y su golfo. Su centro histórico es Patrimonio de la UNESCO y el napolitano tiene su propia literatura y canción.","clue":"La patria de la pizza, frente al Vesubio."},
+    "salerno":  {"n":"Salerno","es":"Salerno","reg":"Campania","ll":[14.765,40.676],"lbl":"b","fact":"Aquí funcionó la Escuela Médica Salernitana, la primera escuela de medicina de la Europa medieval. Es la puerta de la Costa Amalfitana y de los templos griegos de Paestum.","clue":"Tuvo la primera escuela de medicina de la Europa medieval y es la puerta de la Costa Amalfitana."},
+    "palermo":  {"n":"Palermo","es":"Palermo","reg":"Sicilia","ll":[13.366,38.110],"lbl":"t","fact":"Árabes, normandos y españoles dejaron su huella: su arte árabe-normando es Patrimonio de la UNESCO. Reina de la comida callejera: aquí se dice «arancina», en femenino.","clue":"Su arte árabe-normando es Patrimonio de la UNESCO y aquí se dice «arancina»."},
+    "catania":  {"n":"Catania","es":"Catania","reg":"Sicilia","ll":[15.087,37.507],"lbl":"b","fact":"Vive a los pies del Etna, el volcán activo más alto de Europa. Tras el terremoto de 1693 se reconstruyó en barroco con piedra volcánica negra. Aquí se dice «arancino».","clue":"Vive a los pies del Etna y se reconstruyó con piedra volcánica negra."},
+    "messina":  {"n":"Messina","es":"Mesina","reg":"Sicilia","ll":[15.556,38.188],"lbl":"l","fact":"Se asoma al Estrecho que separa Sicilia del continente, de apenas 3 km en su punto más estrecho. Los trenes lo cruzan subidos a un barco.","clue":"Se asoma al Estrecho que los trenes cruzan subidos a un barco."},
+    "reggio_c": {"n":"Reggio Calabria","es":"Reggio Calabria","reg":"Calabria","ll":[15.648,38.107],"lbl":"r","fact":"Su Museo Arqueológico guarda los Bronces de Riace, dos guerreros griegos hallados en el mar en 1972. Desde su paseo marítimo se ven Sicilia y el Etna.","clue":"Su museo guarda los Bronces de Riace, dos guerreros griegos hallados en el mar."},
+    "taranto":  {"n":"Taranto","es":"Tarento","reg":"Puglia","ll":[17.230,40.468],"lbl":"l","fact":"La «ciudad de los dos mares», entre el Mar Grande y el Mar Piccolo, unidos por un puente giratorio. La fundaron colonos espartanos en tiempos de la Magna Grecia.","clue":"Es la ciudad de los dos mares, fundada por colonos espartanos."},
+    "bari":     {"n":"Bari","es":"Bari","reg":"Puglia","ll":[16.871,41.118],"lbl":"r","fact":"Su basílica guarda las reliquias de San Nicolás, que atraen peregrinos de todo el mundo ortodoxo. En las calles de Bari Vecchia se hacen orecchiette a mano.","clue":"Guarda las reliquias de San Nicolás y en sus calles se hacen orecchiette a mano."}
+  },
+  "routes": [
+    {"id":"r1","num":1,"lvl":"A1","name":"Pianura Padana","tag":"Tra Alpi e risaie","regions":["Piemonte","Lombardia"],
+     "desc":"Por la llanura del Po, la zona más poblada e industrial de Italia, con los Alpes siempre en el horizonte. Es la línea histórica Torino–Milano–Venezia.",
+     "stops":["torino","vercelli","novara","milano","bergamo","brescia"],
+     "legs":[
+       {"via":[[7.894,45.190],[8.170,45.365]],"info":"Pasando por Chivasso y Santhià · regionale ≈ 1 h"},
+       {"via":[],"info":"Entre arrozales · ≈ 15 min"},
+       {"via":[[8.89,45.47]],"info":"Cruzando el río Ticino · ≈ 45 min"},
+       {"via":[[9.33,45.505],[9.59,45.523]],"info":"Vía Treviglio · ≈ 50 min"},
+       {"via":[[9.99,45.565]],"info":"Al pie de los Prealpes · ≈ 50 min"}
+     ]},
+    {"id":"r2","num":2,"lvl":"A2","name":"Dall'Adige all'Adriatico","tag":"Il Nord-Est","regions":["Veneto","Friuli-Venezia Giulia"],
+     "desc":"De Verona, a orillas del Adige, hasta Trieste, asomada al Adriático, pasando por las ciudades venecianas y la laguna.",
+     "stops":["verona","vicenza","padova","venezia","trieste"],
+     "legs":[
+       {"via":[[11.27,45.43]],"info":"Línea Milano–Venezia · regionale ≈ 30 min"},
+       {"via":[],"info":"≈ 20 min"},
+       {"via":[[12.232,45.483]],"info":"Por Mestre y el puente sobre la laguna · ≈ 30 min"},
+       {"via":[[12.232,45.483],[12.837,45.775],[13.533,45.809]],"info":"Por Portogruaro y Monfalcone, junto al Carso · ≈ 2 h"}
+     ]},
+    {"id":"r3","num":3,"lvl":"A2","name":"Via Emilia","tag":"La strada romana","regions":["Emilia-Romagna"],
+     "desc":"La calzada romana del año 187 a. C. sigue marcando el camino: casi todas las ciudades de Emilia están sobre ella, y el tren la acompaña en paralelo.",
+     "stops":["bologna","modena","reggio_e","parma"],
+     "legs":[
+       {"via":[],"info":"Por la llanura emiliana · ≈ 25 min"},
+       {"via":[],"info":"≈ 20 min"},
+       {"via":[],"info":"≈ 20 min"}
+     ]},
+    {"id":"r4","num":4,"lvl":"B1","name":"Tra Arno e Trasimeno","tag":"Il cuore verde","regions":["Toscana","Umbria"],
+     "desc":"Siguiendo el Arno de Pisa a Florencia y por el Valdarno hasta Arezzo; después, el valle de la Chiana y el lago Trasimeno, hasta el corazón verde de Italia.",
+     "stops":["pisa","firenze","arezzo","perugia"],
+     "legs":[
+       {"via":[[10.947,43.719]],"info":"Remontando el Arno, vía Empoli · ≈ 1 h"},
+       {"via":[[11.47,43.62],[11.57,43.52]],"info":"Por el Valdarno · regionale ≈ 1 h"},
+       {"via":[[12.009,43.211],[12.137,43.183],[12.26,43.13]],"info":"Cambio en Terontola y orilla del lago Trasimeno · ≈ 1 h 30"}
+     ]},
+    {"id":"r5","num":5,"lvl":"B1","name":"Dal Tevere al Golfo","tag":"Lazio e Campania","regions":["Lazio","Campania"],
+     "desc":"De Roma, a orillas del Tíber, por el valle del Sacco hasta la Campania Felix y los golfos de Nápoles y Salerno, a la sombra del Vesubio.",
+     "stops":["roma","caserta","napoli","salerno"],
+     "legs":[
+       {"via":[[13.00,41.73],[13.35,41.64],[13.83,41.49]],"info":"Por la línea de Cassino · regionale ≈ 2 h 30"},
+       {"via":[],"info":"≈ 40 min"},
+       {"via":[[14.37,40.79],[14.64,40.74]],"info":"Rodeando el Vesubio · ≈ 40 min"}
+     ]},
+    {"id":"r6","num":6,"lvl":"B2","name":"Il Sud dei tre mari","tag":"Dalla Sicilia al tacco","regions":["Sicilia","Calabria","Puglia"],
+     "desc":"Del Tirreno de Palermo al Jónico de Catania, cruzando el Estrecho en barco y bajando por la costa jónica hasta el Adriático de Bari: tres mares en una ruta.",
+     "stops":["palermo","catania","messina","reggio_c","taranto","bari"],
+     "legs":[
+       {"via":[[13.70,37.985],[13.775,37.975],[13.64,37.80],[14.03,37.55],[14.29,37.57],[14.69,37.57]],"info":"Por el interior de la isla, vía Caltanissetta y Enna · ≈ 3 h"},
+       {"via":[[15.17,37.61],[15.19,37.73],[15.29,37.85],[15.42,38.02]],"info":"Costa jónica, a los pies de Taormina · ≈ 1 h 30"},
+       {"via":[],"sea":true,"info":"Cruzando el Estrecho en barco · ≈ 30 min"},
+       {"via":[[15.71,37.93],[15.98,37.93],[16.27,38.24],[16.55,38.69],[16.62,38.82],[17.12,39.08],[17.13,39.37],[16.64,39.60],[16.45,39.74],[16.53,39.87],[16.58,40.11],[16.68,40.21],[16.81,40.36]],"info":"La línea jónica, siempre junto al mar · varias horas"},
+       {"via":[[16.92,40.80]],"info":"Vía Gioia del Colle · ≈ 1 h 15"}
+     ]}
+  ],
+  "transfers": [
+    {"via":[],"info":"Cambio de tren: de Brescia a Verona por la línea Milano–Venezia, ≈ 45 min."},
+    {"via":[[13.533,45.809],[12.837,45.775],[12.232,45.483],[11.880,45.418],[11.62,44.836]],"info":"Cambio de tren: de Trieste a Bolonia, vía Venecia, Padua y Ferrara."},
+    {"via":[[10.10,44.69],[9.88,44.375],[9.83,44.11],[9.96,44.11],[10.25,43.87]],"info":"Cambio de tren: de Parma a Pisa por la línea Pontremolese, cruzando los Apeninos hasta La Spezia."},
+    {"via":[[12.70,42.95],[12.39,42.46]],"info":"Cambio de tren: de Perugia a Roma, vía Foligno y Orte."},
+    {"via":[[14.98,40.61],[15.63,40.07],[16.04,39.36],[16.23,38.90],[15.90,38.42],[15.64,38.22],[15.556,38.188],[15.24,38.22],[14.02,38.04]],"info":"Cambio de tren: el Intercity baja por la costa tirrena, cruza el Estrecho en barco y llega a Palermo."}
+  ],
+  "seas": [
+    {"n":"Mar Ligure","ll":[8.75,43.75]},
+    {"n":"Mar Tirreno","ll":[11.8,39.9]},
+    {"n":"Mar Adriatico","ll":[15.4,42.75]},
+    {"n":"Mar Ionio","ll":[17.45,37.85]}
+  ]
+}

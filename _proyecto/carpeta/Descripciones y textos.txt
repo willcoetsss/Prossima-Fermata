@@ -1,0 +1,55 @@
+﻿PROSSIMA FERMATA · TEXTOS DE LA APP
+Listos para copiar en GitHub, tiendas de aplicaciones, web o redes.
+====================================================================
+
+DESCRIPCIÓN CORTA
+-----------------
+Prossima Fermata: aprende italiano de A1 a B2 viajando en tren por Italia, de Turín a Bari. 29 paradas en ciudades reales, cada una con vocabulario, gramática, conversación y examen. Para hispanohablantes, gratis y sin conexión.
+
+
+DESCRIPCIÓN LARGA
+-----------------
+Prossima Fermata convierte el curso de italiano en un viaje en tren. Cada lección es una parada en una ciudad real, y las 29 paradas forman seis rutas que bajan de norte a sur a medida que sube el nivel: de la llanura del Po en A1 a Sicilia, Calabria y Puglia en B2. En cada parada aprendes vocabulario, una regla de gramática que demuestras con ejercicios, una conversación con un personaje de la ciudad y, al final, un examen que te abre la siguiente.
+
+Está escrita para hispanohablantes: todo se explica en español, cada tema avisa de los errores típicos que cometemos y hay un mazo entero de falsos amigos. Incluye las 1.000 palabras más usadas con ejemplos, 30 conversaciones guiadas, 16 historias para leer y escuchar, un entrenador de verbos y ejercicios de comprensión auditiva.
+
+Por el camino aprendes también geografía: cada ciudad trae su región, una curiosidad y la conexión de tren hasta la siguiente, y al final hay un quiz para comprobar lo que recuerdas.
+
+Es gratuita, sin cuentas ni publicidad, se instala en el móvil como una app y funciona sin conexión.
+
+
+ACERCA DE (texto breve para la propia app)
+------------------------------------------
+Prossima Fermata es un curso de italiano para hispanohablantes en forma de viaje en tren por Italia. El logo es una pizza cuyos ingredientes escriben «Boh», la respuesta italiana a «no lo sé». La idea es que cada vez tengas que decirlo menos.
+
+
+MENSAJE PARA REDES
+------------------
+Aprende italiano de Turín a Bari: 29 paradas, 6 rutas de tren y ni un solo «Boh» al final del viaje.
+
+
+LAS SEIS RUTAS
+--------------
+1 · Pianura Padana (A1) · Tra Alpi e risaie
+    Torino → Vercelli → Novara → Milano → Bergamo → Brescia · Piemonte y Lombardia
+
+2 · Dall'Adige all'Adriatico (A2) · Il Nord-Est
+    Verona → Vicenza → Padova → Venezia → Trieste · Veneto y Friuli-Venezia Giulia
+
+3 · Via Emilia (A2) · La strada romana
+    Bologna → Modena → Reggio Emilia → Parma · Emilia-Romagna
+
+4 · Tra Arno e Trasimeno (B1) · Il cuore verde
+    Pisa → Firenze → Arezzo → Perugia · Toscana y Umbria
+
+5 · Dal Tevere al Golfo (B1) · Lazio e Campania
+    Roma → Caserta → Napoli → Salerno · Lazio y Campania
+
+6 · Il Sud dei tre mari (B2) · Dalla Sicilia al tacco
+    Palermo → Catania → Messina → Reggio Calabria → Taranto → Bari · Sicilia, Calabria y Puglia
+
+
+DIRECCIONES
+-----------
+Web pública (instalable):  https://willcoetsss.github.io/Prossima-Fermata/
+Repositorio:               https://github.com/willcoetsss/Prossima-Fermata

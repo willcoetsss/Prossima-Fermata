@@ -1,0 +1,124 @@
+{
+ "routes": [
+  {
+   "num": 1,
+   "name": "Pianura Padana",
+   "tag": "Tra Alpi e risaie",
+   "lvl": "A1",
+   "regions": [
+    "Piemonte",
+    "Lombardia"
+   ],
+   "desc": "Por la llanura del Po, la zona más poblada e industrial de Italia, con los Alpes siempre en el horizonte. Es la línea histórica Torino–Milano–Venezia.",
+   "cities": [
+    "Torino",
+    "Vercelli",
+    "Novara",
+    "Milano",
+    "Bergamo",
+    "Brescia"
+   ],
+   "km": 235
+  },
+  {
+   "num": 2,
+   "name": "Dall'Adige all'Adriatico",
+   "tag": "Il Nord-Est",
+   "lvl": "A2",
+   "regions": [
+    "Veneto",
+    "Friuli-Venezia Giulia"
+   ],
+   "desc": "De Verona, a orillas del Adige, hasta Trieste, asomada al Adriático, pasando por las ciudades venecianas y la laguna.",
+   "cities": [
+    "Verona",
+    "Vicenza",
+    "Padova",
+    "Venezia",
+    "Trieste"
+   ],
+   "km": 259
+  },
+  {
+   "num": 3,
+   "name": "Via Emilia",
+   "tag": "La strada romana",
+   "lvl": "A2",
+   "regions": [
+    "Emilia-Romagna"
+   ],
+   "desc": "La calzada romana del año 187 a. C. sigue marcando el camino: casi todas las ciudades de Emilia están sobre ella, y el tren la acompaña en paralelo.",
+   "cities": [
+    "Bologna",
+    "Modena",
+    "Reggio Emilia",
+    "Parma"
+   ],
+   "km": 88
+  },
+  {
+   "num": 4,
+   "name": "Tra Arno e Trasimeno",
+   "tag": "Il cuore verde",
+   "lvl": "B1",
+   "regions": [
+    "Toscana",
+    "Umbria"
+   ],
+   "desc": "Siguiendo el Arno de Pisa a Florencia y por el Valdarno hasta Arezzo; después, el valle de la Chiana y el lago Trasimeno, hasta el corazón verde de Italia.",
+   "cities": [
+    "Pisa",
+    "Firenze",
+    "Arezzo",
+    "Perugia"
+   ],
+   "km": 196
+  },
+  {
+   "num": 5,
+   "name": "Dal Tevere al Golfo",
+   "tag": "Lazio e Campania",
+   "lvl": "B1",
+   "regions": [
+    "Lazio",
+    "Campania"
+   ],
+   "desc": "De Roma, a orillas del Tíber, por el valle del Sacco hasta la Campania Felix y los golfos de Nápoles y Salerno, a la sombra del Vesubio.",
+   "cities": [
+    "Roma",
+    "Caserta",
+    "Napoli",
+    "Salerno"
+   ],
+   "km": 254
+  },
+  {
+   "num": 6,
+   "name": "Il Sud dei tre mari",
+   "tag": "Dalla Sicilia al tacco",
+   "lvl": "B2",
+   "regions": [
+    "Sicilia",
+    "Calabria",
+    "Puglia"
+   ],
+   "desc": "Del Tirreno de Palermo al Jónico de Catania, cruzando el Estrecho en barco y bajando por la costa jónica hasta el Adriático de Bari: tres mares en una ruta.",
+   "cities": [
+    "Palermo",
+    "Catania",
+    "Messina",
+    "Reggio Calabria",
+    "Taranto",
+    "Bari"
+   ],
+   "km": 809
+  }
+ ],
+ "transfers_km": [
+  61,
+  275,
+  159,
+  154,
+  536
+ ]
+}

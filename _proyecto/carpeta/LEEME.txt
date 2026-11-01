@@ -1,0 +1,53 @@
+﻿PROSSIMA FERMATA
+Curso de italiano A1–B2 · «In treno per l'Italia»
+==================================================
+
+Esta carpeta reúne los materiales del proyecto. Claude la mantiene al día:
+cuando haya cambios relevantes (nueva versión de la app, de la presentación
+o de la descripción), se sustituyen los archivos y se anota abajo, en el registro.
+Cada cambio de la app se publica a la vez en el enlace de Claude, en GitHub
+y en esta carpeta.
+
+CONTENIDO
+---------
+01 Presentación
+   · Prossima Fermata - In treno per l'Italia.pptx ... presentación editable (14 diapositivas, con notas)
+   · Presentación online (Claude).url ................ la misma presentación en Claude (descargable como PDF)
+
+02 Descripción del proyecto
+   · Descripción del proyecto Prossima Fermata.docx .. qué es, para quién, las rutas, cómo es una parada,
+                                                       secciones, dónde se guarda el progreso, cómo se
+                                                       actualiza, tecnología e ideas para seguir
+   (también guardada en el proyecto «Italiano» de Claude)
+
+03 App y GitHub
+   · prossima-fermata-web ........................ copia de la app tal como está en GitHub
+   · Repositorio en GitHub.url ................... github.com/willcoetsss/Prossima-Fermata
+   · App web (GitHub Pages).url .................. willcoetsss.github.io/Prossima-Fermata
+   · App en Claude.url ........................... la versión publicada en Claude (progreso sincronizado
+                                                   y funciones con Claude)
+
+   Nota: el progreso de cada persona nunca está en estos archivos ni en GitHub.
+   En la web de GitHub se guarda en cada dispositivo; en el enlace de Claude,
+   en tu cuenta.
+
+04 Textos de la app
+   · Descripciones y textos.txt .................. descripciones corta y larga, texto «Acerca de»,
+                                                   mensaje para redes y las seis rutas
+
+PARA CLAUDE (cómo actualizar esta carpeta en otra conversación)
+---------------------------------------------------------------
+Las fuentes con las que se generan la app, la presentación y la descripción
+están en el repositorio de GitHub, en la carpeta «_proyecto». Basta con pedir
+«actualiza la carpeta de Prossima Fermata»: Claude regenera los archivos
+desde ahí, los copia aquí y añade una línea al registro.
+
+REGISTRO DE CAMBIOS
+-------------------
+2026-11-01 · Creación de la carpeta.
+             Presentación v1 (14 diapositivas, con notas y versión online),
+             descripción del proyecto v1, textos de la app y copia de la web.
+             Estado de la app: mapa real de Italia con 6 rutas de tren de norte
+             a sur (Torino → Bari), quiz de geografía, logo de la pizza «Boh»,
+             actualización automática de la app instalada y países vecinos
+             completos en el mapa.
