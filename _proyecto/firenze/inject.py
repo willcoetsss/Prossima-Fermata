@@ -2,9 +2,8 @@
 Todo va entre marcadores TEMPORAL FIRENZE, así que quitarla es limpio y no toca el progreso."""
 import sys, json, re, pathlib
 HERE = pathlib.Path(__file__).parent
-sys.path.insert(0, str(HERE.parent))
-import build
 sys.path.insert(0, str(HERE))
+import build  # solo se usa su lector de diálogos
 import extra
 
 APP = pathlib.Path(sys.argv[sys.argv.index("--app") + 1]) if "--app" in sys.argv else HERE.parent / "v2" / "app.html"
