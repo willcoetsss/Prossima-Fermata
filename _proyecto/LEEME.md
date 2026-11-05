@@ -9,6 +9,7 @@ Guarda lo necesario para que Claude pueda regenerar la app y los documentos en c
 | `mapa/` | `routes.json` (ciudades, rutas, tramos y textos), límites de regiones y países, `geomap.py` | `geomap.build()` genera el JSON del mapa que va en `<script id="mapdata">` dentro de `app.html`. |
 | `logo/` | `pizza.py` genera `pizza-boh.svg` | Los iconos PNG se renderizan desde el SVG. |
 | `documentos/` | `build_deck.js` (presentación .pptx), `build_doc.js` (descripción .docx), capturas e imágenes, `online/project` (presentación online de Claude) | `node build_deck.js` y `node build_doc.js` |
+| `firenze/` | **Temporal.** Pestaña provisional Firenze: `dialogues.txt` (10 conversaciones, formato de `build.py`), `extra.py` (mazo, frases, notas, escenas), `firenze.js` (código de la pestaña), `inject.py` | `python3 inject.py` la inserta en `app.html` entre marcadores TEMPORAL FIRENZE; `python3 inject.py --quitar` la elimina sin dejar rastro. |
 | `carpeta/` | `LEEME.txt` con el registro de cambios y los textos de la app | Se copian a `C:\MIS ARCHIVOS\PROYECTOS CLAUDE\Prossima Fermata` |
 
 Enlaces: app en Claude `https://claude.ai/artifact/UrNjTUohVbEdg37QAAJQNg` ·

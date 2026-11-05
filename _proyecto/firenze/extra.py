@@ -1,0 +1,111 @@
+# Datos de la pestaña provisional «Firenze»: mazo, frases salvavidas, notas culturales,
+# grupos de conversaciones y escenas para hablar con Claude.
+# Marcadores de nombre: {lei} novia · {pa} padre · {ma} madre · {fra} hermano · {nome} tú · {o} o/a
+
+DECK = {"id": "firenze", "title": "Firenze · in famiglia", "lvl": "A2", "cards": [
+    # Arquitectura
+    ["l'architetto", "el arquitecto / la arquitecta", "I miei genitori sono architetti.", "Mis padres son arquitectos."],
+    ["lo studio (di architettura)", "el estudio (de arquitectura)", "Lavorano insieme nello stesso studio.", "Trabajan juntos en el mismo estudio."],
+    ["il progetto", "el proyecto", "Stiamo lavorando a un progetto in centro.", "Estamos trabajando en un proyecto en el centro."],
+    ["progettare", "proyectar, diseñar", "Chi ha progettato questa stazione?", "¿Quién diseñó esta estación?"],
+    ["la pianta", "la planta (el plano)", "Guarda la pianta del piano terra.", "Mira la planta de la planta baja."],
+    ["il prospetto", "el alzado", "Nel prospetto si vedono le finestre.", "En el alzado se ven las ventanas."],
+    ["la sezione", "la sección", "La sezione mostra le due cupole.", "La sección muestra las dos cúpulas."],
+    ["il plastico", "la maqueta", "Il plastico l'ha fatto a mano.", "La maqueta la hizo a mano."],
+    ["il cantiere", "la obra (el lugar)", "Domani andiamo in cantiere.", "Mañana vamos a la obra."],
+    ["il restauro", "la restauración", "Il restauro del palazzo durerà due anni.", "La restauración del palacio durará dos años."],
+    ["la ristrutturazione", "la reforma", "La ristrutturazione della casa l'abbiamo fatta noi.", "La reforma de la casa la hicimos nosotros."],
+    ["la facciata", "la fachada", "La facciata di Santa Maria Novella è di Alberti.", "La fachada de Santa Maria Novella es de Alberti."],
+    ["il tetto", "el tejado", "Dal tetto si vede il Duomo.", "Desde el tejado se ve el Duomo."],
+    ["la volta", "la bóveda", "Che bella volta a crociera!", "¡Qué bóveda de crucería tan bonita!"],
+    ["la cupola", "la cúpula", "La cupola del Brunelleschi è del 1436.", "La cúpula de Brunelleschi es de 1436."],
+    ["il mattone", "el ladrillo", "I mattoni sono messi a spina di pesce.", "Los ladrillos están colocados en espina de pez."],
+    ["la pietra serena", "la piedra serena (arenisca gris)", "Le colonne sono di pietra serena.", "Las columnas son de piedra serena."],
+    ["il cotto", "el barro cocido (baldosa)", "Il pavimento è in cotto.", "El suelo es de barro cocido."],
+    ["il calcestruzzo armato", "el hormigón armado", "Nervi lavorava con il calcestruzzo armato.", "Nervi trabajaba con hormigón armado."],
+    ["la trave", "la viga", "Abbiamo lasciato le travi a vista.", "Hemos dejado las vigas vistas."],
+    ["il pilastro", "el pilar", "Questo pilastro non si può togliere.", "Este pilar no se puede quitar."],
+    ["il cortile", "el patio", "Il palazzo ha un cortile interno.", "El palacio tiene un patio interior."],
+    ["il committente", "el cliente (de una obra)", "Il committente vuole finire entro giugno.", "El cliente quiere terminar antes de junio."],
+    ["vincolato", "protegido (edificio catalogado)", "L'edificio è vincolato, non si può toccare.", "El edificio está protegido, no se puede tocar."],
+    ["la Soprintendenza", "el organismo de patrimonio", "Aspettiamo il parere della Soprintendenza.", "Esperamos el informe de la Soprintendenza."],
+    ["il centro storico", "el casco antiguo", "Nel centro storico non si può costruire.", "En el casco antiguo no se puede construir."],
+    ["il Rinascimento", "el Renacimiento", "Firenze è la culla del Rinascimento.", "Florencia es la cuna del Renacimiento."],
+    # Visita y mesa
+    ["Piacere di conoscervi!", "¡Encantado/a de conoceros!", "Piacere di conoscervi, {lei} mi ha parlato tanto di voi.", "Encantado/a de conoceros, {lei} me ha hablado mucho de vosotros."],
+    ["Grazie dell'invito", "Gracias por la invitación", "Grazie dell'invito, siete gentilissimi.", "Gracias por la invitación, sois muy amables."],
+    ["darsi del tu", "tutearse", "Diamoci del tu!", "¡Tuteémonos!"],
+    ["È buonissimo!", "¡Está buenísimo!", "Complimenti, è buonissimo!", "¡Enhorabuena, está buenísimo!"],
+    ["Ne prendo ancora un po'", "Cojo un poco más", "Sì, ne prendo ancora un po', grazie.", "Sí, cojo un poco más, gracias."],
+    ["Non ce la faccio più", "No puedo más", "Era tutto buonissimo, ma non ce la faccio più!", "Estaba todo buenísimo, ¡pero no puedo más!"],
+    ["fare la scarpetta", "mojar pan en la salsa", "Posso fare la scarpetta?", "¿Puedo mojar pan en la salsa?"],
+    ["Mi passi il pane?", "¿Me pasas el pan?", "Scusa, mi passi il pane?", "Perdona, ¿me pasas el pan?"],
+    ["sparecchiare", "recoger la mesa", "Ti aiuto a sparecchiare.", "Te ayudo a recoger la mesa."],
+    ["Alla salute!", "¡Salud!", "Alla salute di tutti!", "¡A la salud de todos!"],
+    ["il vin santo con i cantucci", "vino dulce con carquiñolis", "Alla fine c'è il vin santo con i cantucci.", "Al final hay vin santo con carquiñolis."],
+    # Para opinar y comparar
+    ["Che ne pensi?", "¿Qué te parece?", "Che ne pensi di questa piazza?", "¿Qué te parece esta plaza?"],
+    ["Secondo me...", "En mi opinión...", "Secondo me è la piazza più bella di Firenze.", "En mi opinión es la plaza más bonita de Florencia."],
+    ["Hai ragione", "Tienes razón", "Hai ragione, non ci avevo pensato.", "Tienes razón, no lo había pensado."],
+    ["Da noi in Spagna invece...", "En España, en cambio...", "Da noi in Spagna invece si cena alle dieci.", "En España, en cambio, se cena a las diez."],
+    ["Mi manca / Mi mancano", "Echo de menos", "Mi manca il sole di {citta}.", "Echo de menos el sol de {citta}."],
+]}
+
+FRASI = [
+    ["Piacere, sono {nome}.", "Encantado/a, soy {nome}."],
+    ["Puoi parlare un po' più piano?", "¿Puedes hablar un poco más despacio?"],
+    ["Scusa, non ho capito. Puoi ripetere?", "Perdona, no lo he entendido. ¿Puedes repetirlo?"],
+    ["Come si dice ... in italiano?", "¿Cómo se dice ... en italiano?"],
+    ["Cosa vuol dire ...?", "¿Qué significa ...?"],
+    ["Posso aiutare?", "¿Puedo ayudar?"],
+    ["Era tutto buonissimo, complimenti!", "Estaba todo buenísimo, ¡enhorabuena!"],
+    ["Che bella casa! L'avete ristrutturata voi?", "¡Qué casa más bonita! ¿La reformasteis vosotros?"],
+    ["Mi racconti la storia di questo palazzo?", "¿Me cuentas la historia de este palacio?"],
+    ["Sto ancora imparando l'italiano, abbiate pazienza!", "Todavía estoy aprendiendo italiano, ¡tened paciencia!"],
+    ["Mi sono sentit{o} a casa.", "Me he sentido como en casa."],
+    ["Grazie di tutto, siete stati gentilissimi.", "Gracias por todo, habéis sido muy amables."],
+]
+
+NOTES = [
+    ["Saludos: Lei hasta que te den el tu",
+     "Con los padres, empieza con *Buongiorno* o *Buonasera* y el *Lei*. Lo normal es que enseguida te digan *Dammi del tu!*; a partir de ahí, tutea sin miedo. Entre familia se dan dos besos (empezando por la mejilla izquierda), pero con los padres, la primera vez, puede que te den la mano: déjales que marquen ellos."],
+    ["El regalo",
+     "Llegar con algo es casi obligatorio. Funciona muy bien algo típico de España: jamón, turrón, un buen vino o aceite. Si son flores, nunca crisantemos (son de cementerio) y mejor en número impar."],
+    ["Horarios: todo un par de horas antes",
+     "Se come hacia la *una* y se cena hacia las *ocho* o las *ocho y media*. El desayuno es dulce y rápido: *cappuccino e brioche* de pie en el bar. No esperes picar algo a las doce ni cenar a las diez."],
+    ["El orden de los platos",
+     "*Antipasto*, *primo* (pasta, arroz o sopa), *secondo* (carne o pescado) con *contorno* (verdura) en otro plato, y al final postre, café y quizá un *digestivo*. La pasta no acompaña a la carne: va antes, sola."],
+    ["El pan toscano no lleva sal",
+     "El *pane sciocco* no tiene sal: si lo pruebas solo te parecerá soso, pero con los platos toscanos tiene sentido. Mojar pan en la salsa es *fare la scarpetta*: en familia está bien visto, es un elogio a quien ha cocinado."],
+    ["El café tiene reglas",
+     "Pedir *un caffè* es pedir un espresso. El *cappuccino* es solo de la mañana: después de comer o cenar se toma un espresso. Si alguien dice *offro io*, te invita; la próxima vez invitas tú."],
+    ["Ofrecer ayuda (aunque te digan que no)",
+     "Ofrécete a poner o recoger la mesa: *Posso aiutare a sparecchiare?* Lo normal es que digan que no porque eres el invitado, pero se valora mucho que lo ofrezcas, sobre todo con la madre."],
+    ["Elogia la casa y la comida",
+     "Siendo arquitectos, se fijarán en si te fijas: comenta la luz, los materiales, una viga, el suelo de *cotto*. Pregunta *L'avete ristrutturata voi?* Y en la mesa, *Complimenti!* a quien ha cocinado."],
+    ["De qué hablar y de qué no",
+     "Funcionan muy bien la comida, los viajes, el arte, la arquitectura y comparar costumbres de España e Italia. La política y el dinero, mejor no sacarlos en la primera visita. Del fútbol se puede bromear, pero con cuidado si son de la Fiorentina."],
+    ["Campanilismo",
+     "Cada ciudad presume de lo suyo y se mete con la de al lado: Florencia con Pisa y Siena, por ejemplo. Si te preguntan, Florencia siempre es la más bonita."],
+    ["La gorgia toscana",
+     "En Florencia la *c* entre vocales suena casi como una *h* aspirada: *la casa* suena *la hasa*. La frase famosa es *la hoha hola hon la hannuccia* («la Coca-Cola con la pajita»). No hace falta imitarla; saber que existe te ayudará a entenderles."],
+    ["La comida del domingo",
+     "El *pranzo della domenica* es sagrado: largo, en familia y a veces con abuelos y tíos. Ve sin prisa: la sobremesa con café, *vin santo* y *cantucci* puede durar toda la tarde."],
+]
+
+GROUPS = [
+    ["La visita", "Llegar, entender y despedirte", ["fi-arrivo", "fi-capito", "fi-saluti"]],
+    ["Arquitectura", "Con los padres, arquitectos", ["fi-cupola", "fi-studio", "fi-ponte"]],
+    ["Choque de culturas", "Mesa, horarios, café y fútbol", ["fi-tavola", "fi-orari", "fi-caffe", "fi-calcio"]],
+]
+
+# Escenas con Claude. who: pa | ma | fra
+SCENES = [
+    ["pa", "Te pregunta qué te ha parecido Florencia y qué edificio te ha gustado más"],
+    ["pa", "Comparáis la arquitectura de {citta} con la de Florencia"],
+    ["ma", "Te enseña la casa que reformaron y te pide tu opinión"],
+    ["ma", "Sobremesa: diferencias entre comer en España y en Italia"],
+    ["ma", "Te pregunta por tu familia y por cómo os conocisteis tú y {lei}"],
+    ["fra", "Te pregunta cómo es la vida en {citta}: fútbol, salir, horarios"],
+    ["fra", "Planeáis qué hacer el sábado por la noche en Florencia"],
+]

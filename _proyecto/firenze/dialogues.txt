@@ -1,0 +1,242 @@
+@ fi-arrivo | A2 | L'arrivo a casa | {ma} | la madre de {lei} | Lei | Llegas con {lei} a casa de sus padres. Abre la puerta su madre.
+n1 > Ciao {lei}! E tu devi essere {nome}! Benvenut{o}, entra, entra! | ¡Hola {lei}! ¡Y tú debes de ser {nome}! ¡Bienvenido/a, pasa, pasa!
+ * Buonasera signora, piacere di conoscerLa! | Buenas tardes, señora, ¡encantado/a de conocerla! | n2
+ * Buonasera! Molto piacere, {lei} mi ha parlato tanto di Lei. | ¡Buenas tardes! Encantado/a, {lei} me ha hablado mucho de usted. | n2
+ x Molto gusto, signora! | ¡Mucho gusto, señora! | «Mucho gusto» no existe en italiano: se dice «piacere» o «molto piacere».
+n2 > Ma che signora! Dammi del tu, per carità. Io sono {ma}. Com'è andato il viaggio? | ¡Qué señora ni qué señora! Tutéame, por favor. Yo soy {ma}. ¿Qué tal el viaje?
+ * Va bene, grazie {ma}! Il viaggio è andato benissimo, il volo era puntuale. | Vale, ¡gracias {ma}! El viaje ha ido muy bien, el vuelo llegó puntual. | n3
+ * Benissimo, grazie! Un po' lungo, ma Firenze è bellissima. | ¡Muy bien, gracias! Un poco largo, pero Florencia es preciosa. | n3
+ x Il viaggio è stato molto bene, grazie. | El viaje ha estado muy bien, gracias. | «Bene» es un adverbio: el viaje «è andato bene» o «è stato bello».
+n3 > Che bello! Dai, dammi il cappotto. E questo pacchetto cos'è? | ¡Qué bien! Venga, dame el abrigo. ¿Y este paquete qué es?
+ * È un piccolo regalo dalla Spagna: un po' di prosciutto iberico e del torrone. | Es un pequeño regalo de España: un poco de jamón ibérico y turrón. | n4
+ * È una bottiglia di vino della Rioja, spero che vi piaccia. | Es una botella de vino de Rioja, espero que os guste. | n4
+n4 > Ma non dovevi! Grazie mille, sei gentilissim{o}. {pa}! {fra}! Venite, è arrivat{o} {nome}! | ¡No tenías por qué! Muchísimas gracias, eres muy amable. ¡{pa}! ¡{fra}! ¡Venid, ha llegado {nome}!
+ * Figurati, è un piacere. Che bella casa! | No hay de qué, es un placer. ¡Qué casa más bonita! | n5
+ * Grazie a voi per l'invito. | Gracias a vosotros por la invitación. | n5
+n5 > Grazie! L'abbiamo ristrutturata noi, sai? Siamo architetti tutti e due. Ma ne parliamo dopo con {pa}. Mettiti comod{o}, fai come se fossi a casa tua. | ¡Gracias! La reformamos nosotros, ¿sabes? Somos arquitectos los dos. Pero ya lo hablamos luego con {pa}. Ponte cómodo/a, como si estuvieras en tu casa.
+ * Grazie, sei molto gentile. | Gracias, eres muy amable. | n6
+ * Grazie! Allora dopo voglio sapere tutto della casa. | ¡Gracias! Pues luego quiero saberlo todo de la casa. | n6
+ x Grazie, mi metto confortevole. | Gracias, me pongo cómodo/a. | «Confortevole» se dice de las cosas (un divano confortevole). Para personas: «mi metto comodo/a».
+n6 > Ecco, arrivano. {pa}, {fra}: ecco {nome}! | Mira, ya vienen. {pa}, {fra}: ¡aquí está {nome}!
+= vocab: dare del tu = tutear ; il cappotto = el abrigo ; il pacchetto = el paquete ; il torrone = el turrón ; ristrutturare = reformar ; mettersi comodo = ponerse cómodo
+= frasi: Piacere di conoscerLa. = Encantado/a de conocerla. ; Dammi del tu! = ¡Tutéame! ; Ma non dovevi! = ¡No tenías por qué! ; Fai come se fossi a casa tua. = Como si estuvieras en tu casa.
+
+@ fi-cupola | B1 | La cupola del Brunelleschi | {pa} | el padre de {lei}, arquitecto | tu | En el salón, el padre de {lei} quiere saber qué te ha parecido Florencia.
+n1 > Allora, {nome}, {lei} mi ha detto che ti interessa l'architettura. Sei già salit{o} sulla cupola del Duomo? | Bueno, {nome}, {lei} me ha dicho que te interesa la arquitectura. ¿Ya has subido a la cúpula del Duomo?
+ * Sì, ci sono salit{o} stamattina! Sono 463 scalini, vero? | Sí, ¡he subido esta mañana! Son 463 escalones, ¿verdad? | n2
+ * Non ancora, ci vado domani. Mi consigli di prenotare? | Todavía no, voy mañana. ¿Me aconsejas reservar? | n2b
+ x Sì, ci ho salito stamattina. | Sí, he subido esta mañana. | «Salire» (subir) forma el pasado con essere: «ci sono salito/a».
+n2 > Esatto, 463! E mentre salivi, hai notato che ci sono due cupole, una dentro l'altra? | ¡Exacto, 463! Y mientras subías, ¿te fijaste en que hay dos cúpulas, una dentro de otra?
+ * Sì, si cammina proprio tra le due cupole. Perché l'ha costruita così? | Sí, se camina justo entre las dos cúpulas. ¿Por qué la construyó así? | n3
+ * Davvero? Non me ne sono accort{o}! A cosa serve? | ¿En serio? ¡No me di cuenta! ¿Para qué sirve? | n3
+n2b > Sì, prenota online, altrimenti fai ore di fila. E quando sali, guarda bene: ci sono due cupole, una dentro l'altra. | Sí, reserva por internet, si no te tiras horas de cola. Y cuando subas, fíjate bien: hay dos cúpulas, una dentro de otra.
+ * Due cupole? Perché l'ha costruita così? | ¿Dos cúpulas? ¿Por qué la construyó así? | n3
+n3 > Per renderla più leggera. Ma la cosa incredibile è che Brunelleschi l'ha costruita senza centine, cioè senza un'armatura di legno sotto. | Para hacerla más ligera. Pero lo increíble es que Brunelleschi la construyó sin cimbras, es decir, sin un armazón de madera debajo.
+ * Senza centine? E come facevano a non far cadere i mattoni? | ¿Sin cimbras? ¿Y cómo hacían para que no se cayeran los ladrillos? | n4
+ * Incredibile. In che anno l'hanno finita? | Increíble. ¿En qué año la terminaron? | n3b
+n3b > La cupola è del 1436, più o meno. Ma la parte più geniale è come ha messo i mattoni. | La cúpula es de 1436, más o menos. Pero lo más genial es cómo colocó los ladrillos.
+ * Come li ha messi? | ¿Cómo los colocó? | n4
+n4 > Con la tecnica a spina di pesce: ogni tanto un mattone in verticale blocca gli altri. Così la struttura si regge da sola mentre cresce. | Con la técnica de espina de pez: cada cierto tramo, un ladrillo en vertical bloquea a los demás. Así la estructura se sostiene sola mientras crece.
+ * È geniale. In Spagna abbiamo Gaudí, ma questo è di cinque secoli prima! | Es genial. En España tenemos a Gaudí, ¡pero esto es de cinco siglos antes! | n5
+ * Quindi i mattoni si reggono a vicenda. Che intelligenza! | O sea, que los ladrillos se sostienen unos a otros. ¡Qué inteligencia! | n5
+n5 > Esatto. Ancora oggi è la cupola in muratura più grande del mondo. E tu cosa ne pensi di Gaudí? A me la Sagrada Família piace, ma è un po' troppo! | Exacto. Todavía hoy es la cúpula de fábrica más grande del mundo. ¿Y tú qué piensas de Gaudí? A mí la Sagrada Familia me gusta, ¡pero es un poco excesiva!
+ * Secondo me è un genio: usava la natura come modello. | En mi opinión es un genio: usaba la naturaleza como modelo. | n6
+ * Ti capisco, è un po' esagerata. Io preferisco Casa Batlló. | Te entiendo, es un poco exagerada. Yo prefiero la Casa Batlló. | n6
+ x Penso che è un genio. | Creo que es un genio. | Tras «penso che» va el congiuntivo: «penso che sia un genio». Más fácil todavía: «secondo me è un genio».
+n6 > Ah, Casa Batlló è meravigliosa! Allora un giorno andiamo tutti insieme a Barcellona e tu ci fai da guida. | ¡Ah, la Casa Batlló es maravillosa! Pues un día vamos todos juntos a Barcelona y tú nos haces de guía.
+= vocab: la cupola = la cúpula ; lo scalino = el escalón ; la centina = la cimbra ; il mattone = el ladrillo ; a spina di pesce = en espina de pez ; in muratura = de fábrica (de obra) ; reggersi = sostenerse
+= frasi: Non me ne sono accorto/a. = No me di cuenta. ; Che cosa ne pensi? = ¿Qué te parece? ; Ci fai da guida. = Nos haces de guía.
+
+@ fi-studio | B1 | Lo studio di architettura | {ma} | la madre de {lei}, arquitecta | tu | La madre de {lei} te enseña el estudio donde trabaja con su marido.
+n1 > Vieni, ti faccio vedere lo studio. Qui lavoriamo io e {pa}. In questo periodo stiamo restaurando un palazzo del Quattrocento in Oltrarno. | Ven, te enseño el estudio. Aquí trabajamos {pa} y yo. Estos días estamos restaurando un palacio del siglo XV en el Oltrarno.
+ * Che bello! È questo il plastico? | ¡Qué bonito! ¿Esta es la maqueta? | n2
+ * Del Quattrocento? E cosa si può cambiare in un palazzo così antico? | ¿Del siglo XV? ¿Y qué se puede cambiar en un palacio tan antiguo? | n3
+ x Che bello! È questa la maqueta? | ¡Qué bonito! ¿Esta es la maqueta? | «Maqueta» en italiano es «il plastico» (o «il modellino»).
+n2 > Sì, l'ha fatto {pa}, è bravissimo con le mani. Guarda: qui c'è il cortile e qui la scala nuova. | Sí, la hizo {pa}, se le dan genial las manualidades. Mira: aquí está el patio y aquí la escalera nueva.
+ * E in un palazzo così antico cosa si può cambiare? | ¿Y en un palacio tan antiguo qué se puede cambiar? | n3
+n3 > Poco! L'edificio è vincolato: ogni modifica deve approvarla la Soprintendenza. La facciata, per esempio, non si tocca. | ¡Poco! El edificio está protegido: cualquier cambio lo tiene que aprobar la Soprintendenza. La fachada, por ejemplo, no se toca.
+ * Anche in Spagna è così nei centri storici. Ci vuole tanto tempo per i permessi? | En España también es así en los cascos antiguos. ¿Se tarda mucho en conseguir los permisos? | n4
+ * E all'interno? Potete usare materiali moderni? | ¿Y por dentro? ¿Podéis usar materiales modernos? | n4b
+n4 > A volte anche un anno! Ma ne vale la pena. E tu cosa fai a {citta}? {lei} mi ha detto qualcosa, ma raccontami tu. | ¡A veces hasta un año! Pero merece la pena. ¿Y tú qué haces en {citta}? {lei} me ha contado algo, pero cuéntamelo tú.
+ * Anch'io studio architettura, a {citta}. | Yo también estudio arquitectura, en {citta}. | n5a
+ * Lavoro, ma l'architettura mi è sempre piaciuta. | Trabajo, pero la arquitectura siempre me ha gustado. | n5b
+ x Studio la carrera di architettura. | Estudio la carrera de arquitectura. | «La carrera» no se dice así: «studio architettura» o «faccio il corso di laurea in architettura».
+n4b > Sì, ma con rispetto: usiamo la pietra serena e il cotto, come una volta, e l'acciaio solo dove non si vede. E tu cosa fai a {citta}? | Sí, pero con respeto: usamos la pietra serena y el barro cocido, como antes, y el acero solo donde no se ve. ¿Y tú qué haces en {citta}?
+ * Anch'io studio architettura, a {citta}. | Yo también estudio arquitectura, en {citta}. | n5a
+ * Lavoro, ma l'architettura mi è sempre piaciuta. | Trabajo, pero la arquitectura siempre me ha gustado. | n5b
+ x Studio la carrera di architettura. | Estudio la carrera de arquitectura. | «La carrera» no se dice así: «studio architettura» o «faccio il corso di laurea in architettura».
+n5a > Davvero? Che bello! Allora con {pa} non smetterete più di parlare. Che tipo di architettura ti piace? | ¿De verdad? ¡Qué bien! Entonces con {pa} no vais a parar de hablar. ¿Qué tipo de arquitectura te gusta?
+ * Mi piace molto il restauro, proprio come a voi. | Me gusta mucho la restauración, igual que a vosotros. | n6
+ * Preferisco l'architettura contemporanea, ma qui sto imparando ad amare il Rinascimento. | Prefiero la arquitectura contemporánea, pero aquí estoy aprendiendo a amar el Renacimiento. | n6
+n5b > Ah, bene! E cosa ti piace dell'architettura? | ¡Ah, bien! ¿Y qué te gusta de la arquitectura?
+ * Mi piace vedere come cambiano le città. Firenze sembra un museo all'aperto! | Me gusta ver cómo cambian las ciudades. ¡Florencia parece un museo al aire libre! | n6
+ * Mi piacciono le case antiche, come questa. | Me gustan las casas antiguas, como esta. | n6
+n6 > Che carin{o}! Dai, andiamo di là, che la cena è quasi pronta. | ¡Qué encanto! Venga, vamos para allá, que la cena está casi lista.
+= vocab: lo studio = el estudio (de arquitectura) ; il plastico = la maqueta ; il cortile = el patio ; vincolato = protegido (edificio) ; la facciata = la fachada ; la pietra serena = piedra arenisca gris florentina ; il cotto = el barro cocido ; l'acciaio = el acero
+= frasi: Ti faccio vedere lo studio. = Te enseño el estudio. ; Ne vale la pena. = Merece la pena. ; Raccontami! = ¡Cuéntame!
+
+@ fi-tavola | A2 | A tavola | {ma} | la madre de {lei} | tu | Primera cena en familia. La madre de {lei} ha cocinado un plato toscano.
+n1 > Allora, a tavola! Stasera c'è la ribollita, un piatto tipico toscano. Ti piace la cucina toscana? | ¡Venga, a la mesa! Esta noche hay ribollita, un plato típico toscano. ¿Te gusta la cocina toscana?
+ * Non l'ho mai provata, ma ha un profumo buonissimo! | No la he probado nunca, ¡pero huele de maravilla! | n2
+ * Sì, moltissimo! La bistecca alla fiorentina, la pappa al pomodoro... | ¡Sí, muchísimo! La bistecca alla fiorentina, la pappa al pomodoro... | n2
+n2 > (Dopo il primo assaggio) Allora? Com'è? | (Tras el primer bocado) ¿Y bien? ¿Qué tal está?
+ * È buonissima! Complimenti, {ma}. | ¡Está buenísima! Enhorabuena, {ma}. | n3
+ * Squisita! Mi dai la ricetta? | ¡Exquisita! ¿Me das la receta? | n3
+ x È molto ricca! | ¡Está muy rica! | Falso amigo: «ricco» significa con muchos ingredientes o pesado, no sabroso. Di «È buonissima!».
+n3 > Grazie! Prendi un po' di pane. Ah, attent{o}: il pane toscano è senza sale! | ¡Gracias! Coge un poco de pan. Ah, ojo: ¡el pan toscano no lleva sal!
+ * Davvero? E perché? | ¿En serio? ¿Y por qué? | n4
+ * Ah, ecco perché aveva un sapore strano! | ¡Ah, por eso tenía un sabor raro! | n4
+n4 > Si dice che una volta il sale costava troppo. Ma è perfetto con i piatti toscani, che sono già saporiti. Ne vuoi ancora? | Dicen que antiguamente la sal costaba demasiado. Pero es perfecto con los platos toscanos, que ya tienen mucho sabor. ¿Quieres más?
+ * Sì, ne prendo ancora un po', grazie! | Sí, cojo un poco más, ¡gracias! | n5
+ * Volentieri, ma poco: voglio lasciare spazio per il secondo! | Con gusto, pero poco: ¡quiero dejar sitio para el segundo! | n5
+ x Sì, voglio un altro piatto. | Sí, quiero otro plato. | Se entiende, pero suena brusco. Mejor: «Sì, ne prendo ancora un po', grazie!».
+n5 > Brav{o}! E per secondo c'è l'arrosto. {pa}, versa il vino a {nome}! | ¡Muy bien! Y de segundo hay asado. ¡{pa}, échale vino a {nome}!
+ * Grazie, solo mezzo bicchiere. Alla salute! | Gracias, solo medio vaso. ¡Salud! | n6
+ * Grazie! Cin cin! | ¡Gracias! ¡Chin chin! | n6
+n6 > (Alla fine della cena) Hai finito tutto, si vede che ti è piaciuto! Vuoi un caffè? | (Al final de la cena) Te lo has comido todo, ¡se nota que te ha gustado! ¿Quieres un café?
+ * Sì, grazie, un caffè ci vuole. Posso aiutare a sparecchiare? | Sí, gracias, un café viene bien. ¿Puedo ayudar a recoger la mesa? | n7
+ * Sì, grazie. Ho mangiato benissimo, non ce la faccio più! | Sí, gracias. He comido de maravilla, ¡no puedo más! | n7
+ x Sì, un cappuccino, grazie. | Sí, un capuchino, gracias. | Después de comer o cenar, en Italia se toma un espresso; el cappuccino es de desayuno.
+n7 > Ma no, sei nostro ospite! Siediti e goditi il caffè. | ¡Que no, eres nuestro invitado! Siéntate y disfruta del café.
+= vocab: la ribollita = sopa toscana de pan y verduras ; l'assaggio = la prueba, el bocado ; la ricetta = la receta ; saporito = sabroso ; il secondo = el segundo plato ; sparecchiare = recoger la mesa ; l'ospite = el invitado
+= frasi: Complimenti! = ¡Enhorabuena! (a quien cocina) ; Ne prendo ancora un po'. = Cojo un poco más. ; Non ce la faccio più! = ¡No puedo más! ; Alla salute! = ¡Salud!
+
+@ fi-orari | A2 | Ma a che ora cenate? | {pa} | el padre de {lei} | tu | Después de cenar, el padre de {lei} tiene curiosidad por las costumbres españolas.
+n1 > {nome}, è vero che in Spagna cenate alle dieci di sera? | {nome}, ¿es verdad que en España cenáis a las diez de la noche?
+ * Sì, è vero! Di solito ceniamo verso le nove e mezza o le dieci. | ¡Sí, es verdad! Normalmente cenamos sobre las nueve y media o las diez. | n2
+ * Dipende, ma sì, molto più tardi che in Italia. | Depende, pero sí, mucho más tarde que en Italia. | n2
+n2 > Alle dieci! Io alle dieci sono già sul divano. E allora a che ora pranzate? | ¡A las diez! Yo a las diez ya estoy en el sofá. ¿Y entonces a qué hora coméis?
+ * Verso le due o le tre del pomeriggio. | Sobre las dos o las tres de la tarde. | n3
+ * Tardi anche quello: alle due, alle due e mezza. | Tarde también: a las dos, a las dos y media. | n3
+ x Pranziamo alle due della tarde. | Comemos a las dos de la tarde. | «Tarde» no es italiano: se dice «alle due del pomeriggio» o simplemente «alle due».
+n3 > E la siesta? La fate davvero tutti i giorni? | ¿Y la siesta? ¿De verdad la hacéis todos los días?
+ * È un mito! Quasi nessuno la fa, solo nel fine settimana o d'estate. | ¡Es un mito! Casi nadie la hace, solo los fines de semana o en verano. | n4
+ * Magari! Con il lavoro non c'è tempo. Ma la domenica un pisolino ci sta. | ¡Ojalá! Con el trabajo no hay tiempo. Pero el domingo una cabezadita cae. | n4
+n4 > Ahah, come qui! E finora cosa ti sembra più strano dell'Italia? | ¡Jaja, como aquí! ¿Y qué es lo que más raro te parece de Italia hasta ahora?
+ * Che si mangia la pasta prima della carne, e non insieme! | ¡Que se come la pasta antes de la carne, y no junto! | n5
+ * Che il caffè si beve in piedi, al banco, in un minuto. | Que el café se toma de pie, en la barra, en un minuto. | n5
+ * Che parlate con le mani ancora più di noi! | ¡Que habláis con las manos todavía más que nosotros! | n5
+n5 > Eh, sono cose sacre! E a te cosa manca della Spagna quando sei qui? | ¡Eh, son cosas sagradas! ¿Y tú qué echas de menos de España cuando estás aquí?
+ * Mi mancano le tapas e la vita in strada fino a tardi. | Echo de menos las tapas y la vida en la calle hasta tarde. | n6
+ * Il sole! E il prosciutto, ovviamente. | ¡El sol! Y el jamón, claro. | n6
+ x Mi manco le tapas. | Echo de menos las tapas. | «Mancare» funciona como «faltar»: lo que echas de menos es el sujeto. Se dice «mi mancano le tapas».
+n6 > Allora la prossima volta veniamo noi a {citta} e ci porti a mangiare le tapas... alle dieci di sera! | Pues la próxima vez vamos nosotros a {citta} y nos llevas a comer tapas... ¡a las diez de la noche!
+= vocab: cenare = cenar ; pranzare = comer (al mediodía) ; il pomeriggio = la tarde ; il pisolino = la cabezadita ; il banco = la barra ; mancare = echar de menos
+= frasi: È un mito! = ¡Es un mito! ; Magari! = ¡Ojalá! ; Mi mancano le tapas. = Echo de menos las tapas. ; Sono cose sacre! = ¡Son cosas sagradas!
+
+@ fi-caffe | A2 | Colazione con {fra} | {fra} | el hermano de {lei} | tu | Por la mañana, el hermano de {lei} te propone bajar a desayunar al bar.
+n1 > Oh, {nome}! Andiamo a fare colazione al bar qui sotto? Offro io. | ¡Eh, {nome}! ¿Bajamos a desayunar al bar de aquí abajo? Invito yo.
+ * Volentieri! Cosa si prende di solito? | ¡Con gusto! ¿Qué se suele tomar? | n2
+ * Sì, dai! Però offro io, voi avete già fatto tanto. | ¡Sí, venga! Pero invito yo, vosotros ya habéis hecho mucho. | n2b
+n2b > Ma figurati, sei in Italia: oggi offro io, la prossima volta tu. Cosa prendi? | Ni hablar, estás en Italia: hoy invito yo, la próxima tú. ¿Qué tomas?
+ * Un cappuccino e una brioche, grazie. | Un capuchino y un cruasán, gracias. | n3
+ x Un café con leche, por favor. | Un café con leche, por favor. | Eso es español. Lo más parecido en Italia es «un caffellatte» o «un cappuccino».
+n2 > Cappuccino e brioche, il classico. Ma solo la mattina, eh! Dopo pranzo il cappuccino no, sennò il barista ti guarda male. | Capuchino y cruasán, lo clásico. ¡Pero solo por la mañana, eh! Después de comer, capuchino no, que si no el camarero te mira mal.
+ * Ahah, me l'ha detto anche tua madre! Allora cappuccino e brioche. | ¡Jaja, también me lo dijo tu madre! Pues capuchino y cruasán. | n3
+ * E se ho voglia di latte dopo pranzo? | ¿Y si me apetece leche después de comer? | n2c
+n2c > Te lo fanno, eh, ma sei subito un turista! Dopo pranzo si prende un espresso, al massimo un macchiato. | Te lo ponen, ¿eh?, pero ya eres un turista. Después de comer se toma un espresso, como mucho un cortado.
+ * Va bene, mi adeguo! Stamattina cappuccino e brioche. | ¡Vale, me adapto! Esta mañana, capuchino y cruasán. | n3
+n3 > (Al bar) Ciao Beppe, due cappuccini e due brioche! ... Senti, hai notato come parliamo noi fiorentini? | (En el bar) ¡Hola Beppe, dos capuchinos y dos cruasanes! ... Oye, ¿te has fijado en cómo hablamos los florentinos?
+ * Sì! A volte la «c» sembra una «h»: «la hasa» invece di «la casa». | ¡Sí! A veces la «c» parece una «h»: «la hasa» en vez de «la casa». | n4
+ * Un po'... parlate veloce e a volte non capisco tutto. | Un poco... habláis rápido y a veces no lo entiendo todo. | n4b
+n4 > Esatto, è la gorgia toscana! La frase famosa è «la hoha hola hon la hannuccia». | ¡Exacto, es la gorgia toscana! La frase famosa es «la Coca-Cola con la pajita».
+ * Ahah, bellissimo! E a Pisa parlano uguale? | ¡Jaja, buenísimo! ¿Y en Pisa hablan igual? | n5
+ * Ahah! Allora devo imparare anche il fiorentino! | ¡Jaja! ¡Entonces tengo que aprender también florentino! | n5
+n4b > Normale! È la gorgia toscana: la «c» tra due vocali diventa quasi una «h». Tipo «la hoha hola hon la hannuccia»! | ¡Normal! Es la gorgia toscana: la «c» entre dos vocales se vuelve casi una «h». ¡Tipo «la Coca-Cola con la pajita»!
+ * Ahah! Allora devo imparare anche il fiorentino! | ¡Jaja! ¡Entonces tengo que aprender también florentino! | n5
+n5 > Ahah! Noi fiorentini prendiamo sempre in giro i pisani, e loro noi. Si chiama campanilismo: ogni città pensa di essere la migliore. Anche in Spagna è così? | ¡Jaja! Los florentinos siempre nos metemos con los pisanos, y ellos con nosotros. Se llama campanilismo: cada ciudad cree que es la mejor. ¿En España también pasa?
+ * Sì, tantissimo! Madrid e Barcellona, per esempio... | ¡Sí, muchísimo! Madrid y Barcelona, por ejemplo... | n6
+ * Sì, e anche tra paesi vicini: ogni paese ha la sua festa e i suoi scherzi. | Sí, y también entre pueblos vecinos: cada pueblo tiene su fiesta y sus bromas. | n6
+n6 > Lo sapevo! Dai, finisci il cappuccino e andiamo, ti porto a vedere il Ponte Vecchio. | ¡Lo sabía! Venga, acábate el capuchino y vamos, que te llevo a ver el Ponte Vecchio.
+= vocab: fare colazione = desayunar ; offrire = invitar (pagar) ; la brioche = el cruasán ; il macchiato = el cortado ; la gorgia toscana = la «c» aspirada de Toscana ; la cannuccia = la pajita ; prendere in giro = tomar el pelo ; il campanilismo = el orgullo local
+= frasi: Offro io. = Invito yo. ; Mi adeguo! = ¡Me adapto! ; Lo sapevo! = ¡Lo sabía!
+
+@ fi-calcio | A2 | Calcio, musica e lampredotto | {fra} | el hermano de {lei} | tu | Paseando con el hermano de {lei}, sale el tema del fútbol.
+n1 > Ma tu per che squadra tifi? Qui siamo tutti viola, eh: Fiorentina! | ¿Y tú de qué equipo eres? Aquí todos somos violetas, ¿eh?: ¡Fiorentina!
+ * Tifo per il Real Madrid, ma non dirlo troppo forte! | Soy del Real Madrid, ¡pero no lo digas muy alto! | n2
+ * Tifo per l'Atlético. E da oggi un po' anche per la Fiorentina! | Soy del Atlético. ¡Y desde hoy un poco también de la Fiorentina! | n2
+ * A dire il vero il calcio non mi interessa molto. | La verdad es que el fútbol no me interesa mucho. | n2c
+ x Sono del Real Madrid. | Soy del Real Madrid. | Se entiende, pero en italiano se dice «tifo per il Real Madrid» o «sono tifoso del Real».
+n2 > Ahah, bene! Domenica c'è la partita al Franchi, vuoi venire? Lo stadio l'ha progettato Pier Luigi Nervi, piacerà anche a te. | ¡Jaja, bien! El domingo hay partido en el Franchi, ¿quieres venir? El estadio lo diseñó Pier Luigi Nervi, a ti también te gustará.
+ * Volentieri! Non sono mai stat{o} in uno stadio italiano. | ¡Con gusto! Nunca he estado en un estadio italiano. | n3
+ * Mi piacerebbe tanto, ma domenica pranziamo tutti insieme, no? | Me encantaría, pero el domingo comemos todos juntos, ¿no? | n3b
+n2c > Davvero? Allora sei l'unico spagnolo che conosco a cui non piace il calcio! E cosa ti piace fare? | ¿En serio? ¡Pues eres la única persona española que conozco a la que no le gusta el fútbol! ¿Y qué te gusta hacer?
+ * Mi piace la musica: suono la chitarra. | Me gusta la música: toco la guitarra. | n4
+ * Viaggiare, disegnare e adesso imparare l'italiano! | ¡Viajar, dibujar y ahora aprender italiano! | n4
+n3 > Perfetto, ti presto una sciarpa viola! E se perdiamo, è colpa tua. | ¡Perfecto, te dejo una bufanda violeta! Y si perdemos, es culpa tuya.
+ * Affare fatto, ma speriamo di vincere! | Trato hecho, ¡pero esperemos ganar! | n4b
+n3b > Ah, è vero, il pranzo della domenica è sacro! Allora la guardiamo dopo, in TV. | ¡Ah, es verdad, la comida del domingo es sagrada! Pues lo vemos después, en la tele.
+ * Perfetto, così vedo anche come tifate a casa! | ¡Perfecto, así veo también cómo animáis en casa! | n4b
+n4 > Figo! Stasera allora ti porto in un locale con musica dal vivo. | ¡Qué guay! Pues esta noche te llevo a un local con música en directo.
+ * Fantastico, grazie {fra}! | ¡Fantástico, gracias {fra}! | n4b
+n4b > Bene! E prima ti porto a mangiare il lampredotto, il panino più fiorentino che c'è. Sai cos'è? | ¡Bien! Y antes te llevo a comer lampredotto, el bocadillo más florentino que hay. ¿Sabes qué es?
+ * No, cos'è? | No, ¿qué es? | n4c
+ * Sì, è trippa, vero? Lo voglio provare! | Sí, son callos, ¿verdad? ¡Quiero probarlo! | n5
+n4c > È trippa: uno degli stomaci della mucca, in un panino con la salsa verde. Sembra strano, ma è buonissimo! | Son callos: uno de los estómagos de la vaca, en un bocadillo con salsa verde. Parece raro, ¡pero está buenísimo!
+ * In Spagna mangiamo i callos, quindi sono pront{o}! | En España comemos callos, ¡así que estoy listo/a! | n5
+ * Mmm... va bene, ci provo! | Mmm... vale, ¡lo pruebo! | n5
+n5 > Grande! Mi stai simpatic{o}, {nome}. {lei} ha scelto bene! | ¡Genial! Me caes bien, {nome}. ¡{lei} ha elegido bien!
+= vocab: tifare per = ser de (un equipo) ; la squadra = el equipo ; la partita = el partido ; la sciarpa = la bufanda ; dal vivo = en directo ; la trippa = los callos ; figo = guay
+= frasi: Per che squadra tifi? = ¿De qué equipo eres? ; Affare fatto! = ¡Trato hecho! ; Mi stai simpatico. = Me caes bien.
+
+@ fi-ponte | B1 | Passeggiata al Ponte Vecchio | {pa} | el padre de {lei}, arquitecto | tu | El padre de {lei} te enseña el centro y te cuenta la historia de sus edificios.
+n1 > Allora, questo è il Ponte Vecchio. Sai perché sul ponte ci sono tutti questi negozi? | Bueno, este es el Ponte Vecchio. ¿Sabes por qué en el puente hay todas estas tiendas?
+ * No, perché? | No, ¿por qué? | n2
+ * Prima c'erano i macellai, vero? | Antes había carniceros, ¿verdad? | n2b
+n2 > Una volta c'erano i macellai, ma alla fine del Cinquecento il granduca li ha cacciati e al loro posto ha messo gli orafi. | Antes había carniceros, pero a finales del siglo XVI el gran duque los echó y en su lugar puso a los orfebres.
+ * E perché? Per l'odore? | ¿Y por qué? ¿Por el olor? | n3
+ * Ecco perché ci sono tutte queste gioiellerie! | ¡Por eso hay todas estas joyerías! | n3
+n2b > Esatto, bravissim{o}! Poi alla fine del Cinquecento il granduca li ha cacciati e al loro posto ha messo gli orafi. | ¡Exacto, muy bien! Luego, a finales del siglo XVI, el gran duque los echó y en su lugar puso a los orfebres.
+ * Per l'odore, immagino! | ¡Por el olor, me imagino! | n3
+n3 > Proprio così: sopra il ponte passava il granduca, nel Corridoio Vasariano, e non voleva sentire la puzza della carne. Lo vedi, quel corridoio lassù? | Así es: por encima del puente pasaba el gran duque, por el Corredor Vasariano, y no quería oler la carne. ¿Lo ves, ese corredor de ahí arriba?
+ * Sì! Collega gli Uffizi con Palazzo Pitti, giusto? | ¡Sí! Une los Uffizi con el Palacio Pitti, ¿no? | n4
+ * Sì, lo vedo. Si può visitare? | Sí, lo veo. ¿Se puede visitar? | n3b
+n3b > Sì, ma bisogna prenotare. Collega gli Uffizi con Palazzo Pitti, passando sopra il fiume. | Sí, pero hay que reservar. Une los Uffizi con el Palacio Pitti, pasando por encima del río.
+ * Allora la prossima volta lo visitiamo! | ¡Pues la próxima vez lo visitamos! | n4
+n4 > Brav{o}. E tu sei arrivat{o} in treno o in aereo? | Muy bien. ¿Y tú has llegado en tren o en avión?
+ * In aereo fino a Pisa, poi in treno fino a Santa Maria Novella. | En avión hasta Pisa, y luego en tren hasta Santa Maria Novella. | n5
+ * In aereo, direttamente a Firenze. | En avión, directamente a Florencia. | n5b
+n5 > Allora hai visto una delle stazioni più belle d'Italia! L'ha progettata Michelucci negli anni Trenta, in pieno razionalismo. | ¡Entonces has visto una de las estaciones más bonitas de Italia! La diseñó Michelucci en los años treinta, en pleno racionalismo.
+ * Sì, mi è piaciuta molto: è semplice e molto luminosa. | Sí, me gustó mucho: es sencilla y muy luminosa. | n6
+ * Non lo sapevo! Domani la guardo meglio. | ¡No lo sabía! Mañana la miro mejor. | n6
+n5b > Peccato, ti sei pers{o} la stazione di Santa Maria Novella: l'ha progettata Michelucci negli anni Trenta. È un gioiello del razionalismo. | Qué pena, te has perdido la estación de Santa Maria Novella: la diseñó Michelucci en los años treinta. Es una joya del racionalismo.
+ * Allora domani ci vado apposta! | ¡Pues mañana voy a propósito! | n6
+n6 > Finalmente qualcuno che capisce di architettura! Dai, andiamo a prendere un gelato, conosco il posto migliore di Firenze. | ¡Por fin alguien que entiende de arquitectura! Venga, vamos a por un helado, conozco el mejor sitio de Florencia.
+= vocab: il macellaio = el carnicero ; l'orafo = el orfebre ; la gioielleria = la joyería ; il granduca = el gran duque ; la puzza = el mal olor ; progettare = proyectar, diseñar ; il razionalismo = el racionalismo
+= frasi: Proprio così. = Así es. ; Non lo sapevo! = ¡No lo sabía! ; Ci vado apposta. = Voy a propósito.
+
+@ fi-capito | A2 | Scusa, non ho capito! | {ma} | la madre de {lei} | tu | La madre de {lei} os cuenta el plan de mañana hablando muy deprisa.
+n1 > Allora, domani mattina andiamo al mercato di Sant'Ambrogio, poi passiamo da mia sorella, e a pranzo... | Bueno, mañana por la mañana vamos al mercado de Sant'Ambrogio, luego pasamos por casa de mi hermana, y a mediodía...
+ * Scusa, {ma}, puoi parlare un po' più piano? | Perdona, {ma}, ¿puedes hablar un poco más despacio? | n2
+ * Scusa, non ho capito bene. Puoi ripetere? | Perdona, no lo he entendido bien. ¿Puedes repetir? | n2
+ x Scusa, puoi parlare più lento? | Perdona, ¿puedes hablar más lento? | Se dice «più piano» o «più lentamente»: «lento» es un adjetivo.
+n2 > Oh, scusa! Allora: domani mattina... andiamo... al mercato. Va meglio? | ¡Ay, perdona! A ver: mañana por la mañana... vamos... al mercado. ¿Mejor así?
+ * Sì, perfetto, grazie! Al mercato di Sant'Ambrogio, giusto? | Sí, perfecto, ¡gracias! Al mercado de Sant'Ambrogio, ¿no? | n3
+ * Sì, grazie. Come si dice «puesto» in italiano? Bancarella? | Sí, gracias. ¿Cómo se dice «puesto» en italiano? ¿Bancarella? | n2b
+n2b > Bravissim{o}, si dice proprio «la bancarella». Al mercato ce ne sono tantissime. | Muy bien, se dice justo «la bancarella». En el mercado hay muchísimos.
+ * Che bello, mi piacciono i mercati! | ¡Qué bien, me encantan los mercados! | n3
+n3 > Sì, lì compriamo la verdura per il pranzo. Poi, se vuoi, passiamo da mia sorella, che vuole tanto conoscerti. | Sí, allí compramos la verdura para la comida. Luego, si quieres, pasamos por casa de mi hermana, que tiene muchas ganas de conocerte.
+ * Volentieri! A che ora partiamo? | ¡Con gusto! ¿A qué hora salimos? | n4
+ * Certo! Devo portare qualcosa? | ¡Claro! ¿Tengo que llevar algo? | n4
+n4 > Verso le nove. E non portare niente, figurati! Basta il tuo sorriso. | Sobre las nueve. Y no lleves nada, ¡ni se te ocurra! Basta con tu sonrisa.
+= vocab: più piano = más despacio ; ripetere = repetir ; la bancarella = el puesto (de mercado) ; passare da qualcuno = pasar por casa de alguien ; il sorriso = la sonrisa
+= frasi: Puoi parlare più piano? = ¿Puedes hablar más despacio? ; Non ho capito bene. = No lo he entendido bien. ; Come si dice...? = ¿Cómo se dice...? ; Va meglio? = ¿Mejor así?
+
+@ fi-saluti | A2 | Arrivederci e grazie | {ma} | la madre de {lei} | tu | Último día. Toca despedirse de la familia de {lei}.
+n1 > Allora, domani parti già? È volato il tempo! | Bueno, ¿mañana ya te vas? ¡Se ha pasado volando!
+ * Sì, purtroppo. Grazie di tutto, mi sono sentit{o} a casa. | Sí, por desgracia. Gracias por todo, me he sentido como en casa. | n2
+ * Eh sì, mi dispiace tanto andare via. Sono stati giorni bellissimi. | Pues sí, me da mucha pena irme. Han sido unos días preciosos. | n2
+ x Grazie per tutto, sono stat{o} molto confortevole. | Gracias por todo, he estado muy cómodo/a. | «Confortevole» se dice de las cosas. Para personas: «mi sono trovato/a benissimo» o «mi sono sentito/a a casa».
+n2 > Ma figurati! Per noi è stato un piacere conoscerti. E il tuo italiano è migliorato tantissimo in pochi giorni! | ¡No hay de qué! Para nosotros ha sido un placer conocerte. ¡Y tu italiano ha mejorado muchísimo en pocos días!
+ * Grazie! Parlate veloce, ma ho capito quasi tutto. | ¡Gracias! Habláis rápido, pero lo he entendido casi todo. | n3
+ * Grazie, continuerò a studiare. La prossima volta parlerò ancora meglio! | Gracias, seguiré estudiando. ¡La próxima vez hablaré todavía mejor! | n3
+n3 > Brav{o}! E noi quando veniamo a trovarvi a {citta}? | ¡Muy bien! ¿Y nosotros cuándo vamos a veros a {citta}?
+ * Quando volete! Vi faccio vedere la città e vi porto a mangiare le tapas. | ¡Cuando queráis! Os enseño la ciudad y os llevo a comer tapas. | n4
+ * Venite in primavera, il clima è perfetto. Siete sempre i benvenuti! | Venid en primavera, el clima es perfecto. ¡Siempre sois bienvenidos! | n4
+ x Siete i benvenuti a casa mía! | ¡Sois bienvenidos a mi casa! | «Mía» es español: en italiano se escribe «a casa mia», sin tilde.
+n4 > Allora è deciso! Salutaci i tuoi genitori. Fai buon viaggio e mandaci un messaggio quando arrivi! | ¡Pues decidido! Saluda a tus padres de nuestra parte. ¡Buen viaje, y mándanos un mensaje cuando llegues!
+ * Certo! Grazie ancora di tutto, un abbraccio! | ¡Claro! Gracias otra vez por todo, ¡un abrazo! | n5
+ * Senz'altro! Grazie, ci vediamo presto! | ¡Sin falta! Gracias, ¡nos vemos pronto! | n5
+n5 > Un abbraccio a te, {nome}. A presto! | Un abrazo para ti, {nome}. ¡Hasta pronto!
+= vocab: purtroppo = por desgracia ; andare via = irse ; venire a trovare = ir a ver (a alguien) ; i benvenuti = los bienvenidos ; l'abbraccio = el abrazo
+= frasi: È volato il tempo! = ¡Se ha pasado volando! ; Mi sono sentito/a a casa. = Me he sentido como en casa. ; Salutaci i tuoi. = Saluda a los tuyos de nuestra parte. ; Mandaci un messaggio. = Mándanos un mensaje.

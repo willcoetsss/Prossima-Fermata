@@ -51,3 +51,12 @@ REGISTRO DE CAMBIOS
              a sur (Torino → Bari), quiz de geografía, logo de la pizza «Boh»,
              actualización automática de la app instalada y países vecinos
              completos en el mapa.
+2026-11-05 · Pestaña PROVISIONAL «Firenze» para preparar la visita a la familia
+             de la novia: 10 conversaciones guiadas (arquitectura con los padres
+             arquitectos y choque de culturas: mesa, horarios, café, fútbol...),
+             escenas para hablar con Claude haciendo de padre, madre o hermano,
+             mazo de 43 tarjetas, frases salvavidas y 12 notas culturales.
+             Nombres de la familia editables en la propia pestaña.
+             Arreglo: los paneles ocultos (conversación con Claude en la web de
+             GitHub, importar progreso) ya no se muestran cuando no deben.
+             Para quitarla: pedir «quita la pestaña Firenze» (el progreso no se toca).
